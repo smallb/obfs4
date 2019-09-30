@@ -35,7 +35,7 @@ import (
 	"os"
 	"strconv"
 
-	"git.torproject.org/pluggable-transports/goptlib.git"
+	"github.com/Yawning/goptlib"
 )
 
 // This file contains things that probably should be in goptlib but are not
