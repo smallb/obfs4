@@ -38,10 +38,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/smallb/obfs4.git/common/csrand"
-	"github.com/smallb/obfs4.git/common/ntor"
-	"github.com/smallb/obfs4.git/common/replayfilter"
-	"github.com/smallb/obfs4.git/transports/obfs4/framing"
+	"github.com/smallb/github.com/smallb/obfs4/common/csrand"
+	"github.com/smallb/github.com/smallb/obfs4/common/ntor"
+	"github.com/smallb/github.com/smallb/obfs4/common/replayfilter"
+	"github.com/smallb/github.com/smallb/obfs4/transports/obfs4/framing"
 )
 
 const (

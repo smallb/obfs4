@@ -29,8 +29,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/smallb/obfs4.git/common/log"
-	"github.com/smallb/obfs4.git/transports/base"
+	"github.com/smallb/github.com/smallb/obfs4/common/log"
+	"github.com/smallb/github.com/smallb/obfs4/transports/base"
 	utls "gitlab.com/yawning/utls.git"
 	"golang.org/x/net/http2"
 )

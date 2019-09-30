@@ -58,7 +58,7 @@
 // and the initial counter value.  It is imperative that the counter does not
 // wrap, and sessions MUST terminate before 2^64 frames are sent.
 //
-package framing // import "github.com/smallb/obfs4.git/transports/obfs4/framing"
+package framing // import "github.com/smallb/github.com/smallb/obfs4/transports/obfs4/framing"
 
 import (
 	"bytes"
@@ -67,8 +67,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/smallb/obfs4.git/common/csrand"
-	"github.com/smallb/obfs4.git/common/drbg"
+	"github.com/smallb/github.com/smallb/obfs4/common/csrand"
+	"github.com/smallb/github.com/smallb/obfs4/common/drbg"
 	"golang.org/x/crypto/nacl/secretbox"
 )
 

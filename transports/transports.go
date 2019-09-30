@@ -27,18 +27,18 @@
 
 // Package transports provides a interface to query supported pluggable
 // transports.
-package transports // import "github.com/smallb/obfs4.git/transports"
+package transports // import "github.com/smallb/github.com/smallb/obfs4/transports"
 
 import (
 	"fmt"
 	"sync"
 
-	"github.com/smallb/obfs4.git/transports/base"
-	"github.com/smallb/obfs4.git/transports/meeklite"
-	"github.com/smallb/obfs4.git/transports/obfs2"
-	"github.com/smallb/obfs4.git/transports/obfs3"
-	"github.com/smallb/obfs4.git/transports/obfs4"
-	"github.com/smallb/obfs4.git/transports/scramblesuit"
+	"github.com/smallb/github.com/smallb/obfs4/transports/base"
+	"github.com/smallb/github.com/smallb/obfs4/transports/meeklite"
+	"github.com/smallb/github.com/smallb/obfs4/transports/obfs2"
+	"github.com/smallb/github.com/smallb/obfs4/transports/obfs3"
+	"github.com/smallb/github.com/smallb/obfs4/transports/obfs4"
+	"github.com/smallb/github.com/smallb/obfs4/transports/scramblesuit"
 )
 
 var transportMapLock sync.Mutex

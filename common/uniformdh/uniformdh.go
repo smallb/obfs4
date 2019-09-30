@@ -29,7 +29,7 @@
 // mechanism as defined in the obfs3 protocol specification.  This
 // implementation is suitable for obfuscation but MUST NOT BE USED when strong
 // security is required as it is not constant time.
-package uniformdh // import "github.com/smallb/obfs4.git/common/uniformdh"
+package uniformdh // import "github.com/smallb/github.com/smallb/obfs4/common/uniformdh"
 
 import (
 	"fmt"

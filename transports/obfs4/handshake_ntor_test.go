@@ -31,8 +31,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/smallb/obfs4.git/common/ntor"
-	"github.com/smallb/obfs4.git/common/replayfilter"
+	"github.com/smallb/github.com/smallb/obfs4/common/ntor"
+	"github.com/smallb/github.com/smallb/obfs4/common/replayfilter"
 )
 
 func TestHandshakeNtorClient(t *testing.T) {

@@ -33,8 +33,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/smallb/obfs4.git/common/drbg"
-	"github.com/smallb/obfs4.git/transports/obfs4/framing"
+	"github.com/smallb/github.com/smallb/obfs4/common/drbg"
+	"github.com/smallb/github.com/smallb/obfs4/transports/obfs4/framing"
 )
 
 const (
