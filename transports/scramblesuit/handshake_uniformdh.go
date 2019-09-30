@@ -36,8 +36,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/smallb/github.com/smallb/obfs4/common/csrand"
-	"github.com/smallb/github.com/smallb/obfs4/common/uniformdh"
+	"github.com/smallb/obfs4/common/csrand"
+	"github.com/smallb/obfs4/common/uniformdh"
 )
 
 const (

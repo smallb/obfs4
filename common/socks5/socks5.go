@@ -35,7 +35,7 @@
 //  * The authentication provided by the client is always accepted as it is
 //    used as a channel to pass information rather than for authentication for
 //    pluggable transports.
-package socks5 // import "github.com/smallb/github.com/smallb/obfs4/common/socks5"
+package socks5 // import "github.com/smallb/obfs4/common/socks5"
 
 import (
 	"bufio"

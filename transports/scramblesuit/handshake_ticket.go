@@ -42,7 +42,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/smallb/github.com/smallb/obfs4/common/csrand"
+	"github.com/smallb/obfs4/common/csrand"
 )
 
 const (

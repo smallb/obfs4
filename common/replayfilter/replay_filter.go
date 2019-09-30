@@ -30,7 +30,7 @@
 // has been seen before based on the SipHash-2-4 digest of the sequence.
 // Collisions are treated as positive matches, though the probability of this
 // happening is negligible.
-package replayfilter // import "github.com/smallb/github.com/smallb/obfs4/common/replayfilter"
+package replayfilter // import "github.com/smallb/obfs4/common/replayfilter"
 
 import (
 	"container/list"
@@ -39,7 +39,7 @@ import (
 	"time"
 
 	"github.com/dchest/siphash"
-	"github.com/smallb/github.com/smallb/obfs4/common/csrand"
+	"github.com/smallb/obfs4/common/csrand"
 )
 
 // maxFilterSize is the maximum capacity of a replay filter.  This value is

@@ -31,7 +31,7 @@
 // Not all of the convinience routines are replicated, only those that are
 // immediately useful.  The Rand variable provides access to the full math/rand
 // API.
-package csrand // import "github.com/smallb/github.com/smallb/obfs4/common/csrand"
+package csrand // import "github.com/smallb/obfs4/common/csrand"
 
 import (
 	cryptRand "crypto/rand"

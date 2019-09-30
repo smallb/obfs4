@@ -32,7 +32,7 @@
 //
 // Before using this package, it is strongly recommended that the specification
 // is read and understood.
-package ntor // import "github.com/smallb/github.com/smallb/obfs4/common/ntor"
+package ntor // import "github.com/smallb/obfs4/common/ntor"
 
 import (
 	"bytes"
@@ -44,7 +44,7 @@ import (
 	"io"
 
 	"github.com/agl/ed25519/extra25519"
-	"github.com/smallb/github.com/smallb/obfs4/common/csrand"
+	"github.com/smallb/obfs4/common/csrand"
 	"golang.org/x/crypto/curve25519"
 	"golang.org/x/crypto/hkdf"
 )

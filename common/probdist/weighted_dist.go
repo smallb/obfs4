@@ -28,7 +28,7 @@
 // Package probdist implements a weighted probability distribution suitable for
 // protocol parameterization.  To allow for easy reproduction of a given
 // distribution, the drbg package is used as the random number source.
-package probdist // import "github.com/smallb/github.com/smallb/obfs4/common/probdist"
+package probdist // import "github.com/smallb/obfs4/common/probdist"
 
 import (
 	"bytes"
@@ -37,8 +37,8 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/smallb/github.com/smallb/obfs4/common/csrand"
-	"github.com/smallb/github.com/smallb/obfs4/common/drbg"
+	"github.com/smallb/obfs4/common/csrand"
+	"github.com/smallb/obfs4/common/drbg"
 )
 
 const (

@@ -27,7 +27,7 @@
 
 // Package base provides the common interface that each supported transport
 // protocol must implement.
-package base // import "github.com/smallb/github.com/smallb/obfs4/transports/base"
+package base // import "github.com/smallb/obfs4/transports/base"
 
 import (
 	"net"

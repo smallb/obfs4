@@ -27,7 +27,7 @@
 
 // Package obfs4 provides an implementation of the Tor Project's obfs4
 // obfuscation protocol.
-package obfs4 // import "github.com/smallb/github.com/smallb/obfs4/transports/obfs4"
+package obfs4 // import "github.com/smallb/obfs4/transports/obfs4"
 
 import (
 	"bytes"
@@ -43,12 +43,12 @@ import (
 	"time"
 
 	"github.com/Yawning/goptlib"
-	"github.com/smallb/github.com/smallb/obfs4/common/drbg"
-	"github.com/smallb/github.com/smallb/obfs4/common/ntor"
-	"github.com/smallb/github.com/smallb/obfs4/common/probdist"
-	"github.com/smallb/github.com/smallb/obfs4/common/replayfilter"
-	"github.com/smallb/github.com/smallb/obfs4/transports/base"
-	"github.com/smallb/github.com/smallb/obfs4/transports/obfs4/framing"
+	"github.com/smallb/obfs4/common/drbg"
+	"github.com/smallb/obfs4/common/ntor"
+	"github.com/smallb/obfs4/common/probdist"
+	"github.com/smallb/obfs4/common/replayfilter"
+	"github.com/smallb/obfs4/transports/base"
+	"github.com/smallb/obfs4/transports/obfs4/framing"
 )
 
 const (
