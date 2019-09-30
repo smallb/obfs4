@@ -30,14 +30,14 @@
 // made to normalize the TLS fingerprint.
 //
 // It borrows quite liberally from the real meek-client code.
-package meeklite // import "gitlab.com/yawning/obfs4.git/transports/meeklite"
+package meeklite // import "github.com/smallb/obfs4.git/transports/meeklite"
 
 import (
 	"fmt"
 	"net"
 
 	"github.com/Yawning/goptlib"
-	"gitlab.com/yawning/obfs4.git/transports/base"
+	"github.com/smallb/obfs4.git/transports/base"
 )
 
 const transportName = "meek_lite"

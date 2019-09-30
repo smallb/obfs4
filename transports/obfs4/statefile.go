@@ -38,9 +38,9 @@ import (
 	"strings"
 
 	"github.com/Yawning/goptlib"
-	"gitlab.com/yawning/obfs4.git/common/csrand"
-	"gitlab.com/yawning/obfs4.git/common/drbg"
-	"gitlab.com/yawning/obfs4.git/common/ntor"
+	"github.com/smallb/obfs4.git/common/csrand"
+	"github.com/smallb/obfs4.git/common/drbg"
+	"github.com/smallb/obfs4.git/common/ntor"
 )
 
 const (

@@ -43,10 +43,10 @@ import (
 	"time"
 
 	"github.com/Yawning/goptlib"
-	"gitlab.com/yawning/obfs4.git/common/csrand"
-	"gitlab.com/yawning/obfs4.git/common/drbg"
-	"gitlab.com/yawning/obfs4.git/common/probdist"
-	"gitlab.com/yawning/obfs4.git/common/uniformdh"
+	"github.com/smallb/obfs4.git/common/csrand"
+	"github.com/smallb/obfs4.git/common/drbg"
+	"github.com/smallb/obfs4.git/common/probdist"
+	"github.com/smallb/obfs4.git/common/uniformdh"
 )
 
 const (

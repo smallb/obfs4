@@ -46,7 +46,7 @@ import (
 	"time"
 
 	"github.com/Yawning/goptlib"
-	"gitlab.com/yawning/obfs4.git/transports/base"
+	"github.com/smallb/obfs4.git/transports/base"
 	utls "gitlab.com/yawning/utls.git"
 )
 

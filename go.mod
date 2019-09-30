@@ -1,4 +1,4 @@
-module gitlab.com/yawning/obfs4.git
+module github.com/smallb/obfs4.git
 
 require (
 	github.com/Yawning/goptlib v1.0.0

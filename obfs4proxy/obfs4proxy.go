@@ -42,10 +42,10 @@ import (
 	"syscall"
 
 	"github.com/Yawning/goptlib"
-	"gitlab.com/yawning/obfs4.git/common/log"
-	"gitlab.com/yawning/obfs4.git/common/socks5"
-	"gitlab.com/yawning/obfs4.git/transports"
-	"gitlab.com/yawning/obfs4.git/transports/base"
+	"github.com/smallb/obfs4.git/common/log"
+	"github.com/smallb/obfs4.git/common/socks5"
+	"github.com/smallb/obfs4.git/transports"
+	"github.com/smallb/obfs4.git/transports/base"
 	"golang.org/x/net/proxy"
 )
 
