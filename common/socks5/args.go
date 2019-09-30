@@ -29,7 +29,7 @@ package socks5
 
 import (
 	"fmt"
-	"github.com/Yawning/goptlib"
+	"github.com/smallb/goptlib"
 )
 
 // parseClientParameters takes a client parameter string formatted according to

@@ -40,7 +40,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/Yawning/goptlib"
+	"github.com/smallb/goptlib"
 	"github.com/smallb/obfs4/common/csrand"
 	"github.com/smallb/obfs4/common/uniformdh"
 	"github.com/smallb/obfs4/transports/base"

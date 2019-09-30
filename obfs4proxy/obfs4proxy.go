@@ -41,7 +41,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/Yawning/goptlib"
+	"github.com/smallb/goptlib"
 	"github.com/smallb/obfs4/common/log"
 	"github.com/smallb/obfs4/common/socks5"
 	"github.com/smallb/obfs4/transports"

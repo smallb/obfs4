@@ -1,7 +1,7 @@
 module github.com/smallb/obfs4
 
 require (
-	github.com/Yawning/goptlib v1.0.0
+	github.com/smallb/goptlib v1.0.0
 	github.com/agl/ed25519 v0.0.0-20170116200512-5312a6153412
 	github.com/dchest/siphash v1.2.1
 	gitlab.com/yawning/utls.git v0.0.11-1

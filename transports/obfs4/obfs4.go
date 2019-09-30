@@ -42,7 +42,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Yawning/goptlib"
+	"github.com/smallb/goptlib"
 	"github.com/smallb/obfs4/common/drbg"
 	"github.com/smallb/obfs4/common/ntor"
 	"github.com/smallb/obfs4/common/probdist"

@@ -32,7 +32,7 @@ package base // import "github.com/smallb/obfs4/transports/base"
 import (
 	"net"
 
-	"github.com/Yawning/goptlib"
+	"github.com/smallb/goptlib"
 )
 
 type DialFunc func(string, string) (net.Conn, error)
